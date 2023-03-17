@@ -32,6 +32,7 @@ class _FirstScreenState extends State<FirstScreen> {
     // Attach a listener to the stream
     _sub = linkStream.listen((String? link) {
       // Parse the link and warn the user, if it is not correct
+      ///now you manage link and routs
       print(link);
     }, onError: (err) {
       // Handle exception by warning the user their action did not succeed
