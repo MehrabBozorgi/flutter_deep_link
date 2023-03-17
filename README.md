@@ -1,16 +1,21 @@
 # flutter_deep_link
 
-A new Flutter project.
 
-## Getting Started
+📍First Step:
+add this package to your project👉https://pub.dev/packages/uni_links
 
-This project is a starting point for a Flutter application.
+-
+📍Second Step:
+go to this part change it in your project 👉https://pub.dev/packages/uni_links#installation
 
-A few resources to get you started if this is your first Flutter project:
+-
+📍Third Step:
+check out this repository manifest deep link part
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-
+📍Fourth Step:
+check out this repository main.dart file
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-
+🔥Tip:
+to get result, you must close app
